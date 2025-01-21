@@ -1,5 +1,11 @@
 # Bank-Loan-analysis
 
+![Screenshot 2025-01-21 154341](https://github.com/user-attachments/assets/7356c77f-aec8-4779-ab79-f8aadfbf08cf)
+
+![Screenshot 2025-01-21 154405](https://github.com/user-attachments/assets/cb157bea-8991-445e-a070-3001372150f7)
+
+
+
 **1. Business Need**
 The bank required a comprehensive solution to monitor and analyze loan-related metrics to optimize its lending operations. Key challenges included:
 
